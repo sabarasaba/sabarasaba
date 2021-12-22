@@ -1,8 +1,1 @@
-### Hi there 👋
-
-I’m a Software Engineer passionate about the open web, javascript and internet privacy. I love working on challenging problems and shipping products.
-
-- 📝 &nbsp;[Website](https://ignaciorivas.me/)
-- 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/rivasignacio/)
-- 🐦 &nbsp;[Twitter](https://twitter.com/sabarasaba)
-- 📫 &nbsp;[Contact me](mailto:rivasign@gmail.com)
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sabarasaba/sabarasaba/blob/master/nice.gif?raw=true" width="100%">
